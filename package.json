@@ -536,7 +536,7 @@
     "verror": "^1.10.0",
     "vfile": "^4.2.1",
     "vfile-message": "^2.0.4",
-    "vm2": "^3.9.9",
+    "vm2": "^3.9.11",
     "w3c-hr-time": "^1.0.2",
     "w3c-xmlserializer": "^3.0.0",
     "wcwidth": "^1.0.1",
